@@ -1,0 +1,10 @@
+
+[Activity]
+name = Juani Downloader
+bundle_id = org.pythonjoven.JD
+class = activity.VteActivity
+icon = activity-icon
+activity_version = 2
+mime_types = 
+show_launcher = yes
+
